@@ -1,0 +1,13 @@
+{
+  "name": "ask-ai",
+  "version": "1.0.0",
+  "description": "Autonomous CLI AI Assistant",
+  "main": "cli.js",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.28.0"
+  },
+  "author": "Guhapriyan",
+  "license": "MIT"
+}
